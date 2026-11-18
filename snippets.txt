@@ -1,0 +1,16 @@
+# ---------- Dummy data for FastAPI ----------
+
+users = [
+    {"id": 1, "name": "Amit Sharma", "email": "amit@example.com", "age": 28, "city": "Delhi"},
+    {"id": 2, "name": "Priya Singh", "email": "priya@example.com", "age": 24, "city": "Mumbai"},
+    {"id": 3, "name": "Rahul Verma", "email": "rahul@example.com", "age": 31, "city": "Bangalore"},
+    {"id": 4, "name": "Sneha Patel", "email": "sneha@example.com", "age": 27, "city": "Ahmedabad"},
+    {"id": 5, "name": "Vikram Rao", "email": "vikram@example.com", "age": 35, "city": "Hyderabad"},
+]
+
+products = [
+    {"id": 1, "name": "Laptop", "price": 55000, "in_stock": True},
+    {"id": 2, "name": "Smartphone", "price": 20000, "in_stock": True},
+    {"id": 3, "name": "Headphones", "price": 1500, "in_stock": False},
+    {"id": 4, "name": "Keyboard", "price": 800, "in_stock": True},
+]
